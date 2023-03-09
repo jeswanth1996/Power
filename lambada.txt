@@ -1,0 +1,14 @@
+{
+  "operation": "create",
+  "payload": {
+    "TableName": "orders",
+    "Item": {
+      "orderid": 2000,
+      "ordername": "Dove",
+      "Location": "Hyd",
+      "State": "TS",
+      "Nation": "India",
+      "MobileNmuber": 8106888766
+    }
+  }
+}
